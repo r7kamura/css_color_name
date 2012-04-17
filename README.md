@@ -27,8 +27,8 @@ DarkBlue             | #00008B |   0,   0, 139 | 66, 100,  27
 DarkCyan             | #008B8B |   0, 139, 139 | 50, 100,  27
 DarkGoldenRod        | #B8860B | 184, 134,  11 | 11,  88,  38
 DarkGray             | #A9A9A9 | 169, 169, 169 |  0,   0,  66
-DarkGrey             | #006400 |   0, 100,   0 | 33, 100,  19
-DarkGreen            | #A9A9A9 | 169, 169, 169 |  0,   0,  66
+DarkGrey             | #A9A9A9 | 169, 169, 169 |  0,   0,  66
+DarkGreen            | #006400 |   0, 100,   0 | 33, 100,  19
 DarkKhaki            | #BDB76B | 189, 183, 107 | 15,  38,  58
 DarkMagenta          | #8B008B | 139,   0, 139 | 83, 100,  27
 DarkOliveGreen       | #556B2F |  85, 107,  47 | 22,  38,  30
