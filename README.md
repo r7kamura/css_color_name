@@ -1,5 +1,3 @@
-# CSS Color Name
-
 ## Color Table
 
 Name                 | Hex     | RGB
